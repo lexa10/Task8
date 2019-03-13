@@ -23,7 +23,7 @@ public class Main {
         System.out.println("After remove:");
         list.remove(item1);
         list.display();
-        System.out.println("Find Pavel: " + list(item4.getId()));
+        System.out.println("Find Виктор: " + list(item4.getId()));
 
         System.out.println("size is " + list.getSize());
         System.out.println("Finish");
